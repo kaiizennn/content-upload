@@ -102,7 +102,7 @@
       "id": 2,
       "category": "Coding, Apps",
       "title": "Kelebihan Transaksi menggunakan E-money",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/programming.jpg",
+      "image": "file:///android_asset/image/emoney.png",
       "content": "file:///android_asset/content/kelebihan-emoney.html",
       "video": ""
     },
@@ -110,7 +110,7 @@
       "id": 3,
       "category": "Game",
       "title": "Kekurangan Transaksi menggunakan E-money",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/mobile-legends.jpg",
+      "image": "file:///android_asset/image/emoney.png",
       "content": "file:///android_asset/content/kekurangan-emoney.html",
       "video": ""
     },
@@ -118,7 +118,7 @@
       "id": 4,
       "category": "Game",
       "title": "Cara cek saldo E-money Mandiri",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
+      "image": "file:///android_asset/image/emoney.png",
       "content": "file:///android_asset/content/cara-cek-saldo-emoney-mandiri.html",
       "video": ""
     },
@@ -126,7 +126,7 @@
       "id": 5,
       "category": "Tips & Trick",
       "title": "Cara Cek saldo E-money tanpa NFC",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
+      "image": "file:///android_asset/image/emoney.png",
       "content": "file:///android_asset/content/cek-saldo-tanpa-nfc.html",
       "video": ""
     },
@@ -134,7 +134,7 @@
       "id": 6,
       "category": "OS, Apps",
       "title": "Cara isi saldo E-money",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/android.jpg",
+      "image": "file:///android_asset/image/isi-saldo.png",
       "content": "file:///android_asset/content/cara-isi-saldo-emoney.html",
       "video": ""
     }
