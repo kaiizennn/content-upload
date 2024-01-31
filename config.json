@@ -94,7 +94,7 @@
       "id": 1,
       "category": "Smartphone,mobile-payment",
       "title": "Perbedaan e-money dan e-wallet",
-      "image": "file:///android_asset/image/emoney.png",
+      "image": "file:///android_asset/image/e-money.png",
       "content": "file:///android_asset/content/pengertian-emoney.html",
       "video": ""
     },
@@ -133,7 +133,7 @@
     {
       "id": 6,
       "category": "Smartphone,cashless-payment",
-      "title": "Cara isi saldo E-money",
+      "title": "Cara isi saldo E-money secara Online",
       "image": "file:///android_asset/image/isi-saldo.png",
       "content": "file:///android_asset/content/cara-isi-saldo-emoney.html",
       "video": ""
