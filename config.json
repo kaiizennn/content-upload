@@ -75,48 +75,18 @@
   "categories": [
     {
       "id": 1,
-      "name": "Apps",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
+      "name": "Smartphone",
+      "image": "file:///android_asset/image/smartphone.png"
     },
     {
       "id": 2,
-      "name": "Game",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
+      "name": "mobile-payment",
+      "image": "file:///android_asset/image/mobile-peyment.png"
     },
     {
       "id": 3,
-      "name": "OS",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
-    },
-    {
-      "id": 4,
-      "name": "Coding",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
-    },
-    {
-      "id": 5,
-      "name": "Mods",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
-    },
-    {
-      "id": 6,
-      "name": "How To",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
-    },
-    {
-      "id": 7,
-      "name": "Tips & Trick",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
-    },
-    {
-      "id": 8,
-      "name": "Lifestyle",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
-    },
-    {
-      "id": 9,
-      "name": "Android",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
+      "name": "cashless-payment",
+      "image": "file:///android_asset/image/cashless-payment.png"
     }
   ],
   "posts": [
