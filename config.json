@@ -102,7 +102,7 @@
       "id": 2,
       "category": "Coding, Apps",
       "title": "Kelebihan Transaksi menggunakan E-money",
-      "image": "file:///android_asset/image/emoney.png",
+      "image": "file:///android_asset/image/kelebihan.png",
       "content": "file:///android_asset/content/kelebihan-emoney.html",
       "video": ""
     },
@@ -110,7 +110,7 @@
       "id": 3,
       "category": "Game",
       "title": "Kekurangan Transaksi menggunakan E-money",
-      "image": "file:///android_asset/image/emoney.png",
+      "image": "file:///android_asset/image/kekurangan.png",
       "content": "file:///android_asset/content/kekurangan-emoney.html",
       "video": ""
     },
