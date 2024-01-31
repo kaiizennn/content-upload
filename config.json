@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "redirect_url": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.arsyadev.landscapenaturewallpaperhd",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
       "email_feedback_and_report": "youremail@gmail.com",
       "webview_cache": true,
@@ -80,19 +80,19 @@
     },
     {
       "id": 2,
-      "name": "mobile-payment",
-      "image": "file:///android_asset/image/mobile-peyment.png"
+      "name": "mobile",
+      "image": "file:///android_asset/image/mobile.png"
     },
     {
       "id": 3,
-      "name": "cashless-payment",
+      "name": "payment",
       "image": "file:///android_asset/image/cashless-payment.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Smartphone,mobile-payment",
+      "category": "Smartphone,mobile",
       "title": "Perbedaan e-money dan e-wallet",
       "image": "file:///android_asset/image/e-money.png",
       "content": "file:///android_asset/content/pengertian-emoney.html",
@@ -100,7 +100,7 @@
     },
     {
       "id": 2,
-      "category": "Smartphone,mobile-payment",
+      "category": "Smartphone,payment",
       "title": "Kelebihan Transaksi menggunakan E-money",
       "image": "file:///android_asset/image/kelebihan.png",
       "content": "file:///android_asset/content/kelebihan-emoney.html",
@@ -108,7 +108,7 @@
     },
     {
       "id": 3,
-      "category": "mobile-payment",
+      "category": "mobile",
       "title": "Kekurangan Transaksi menggunakan E-money",
       "image": "file:///android_asset/image/kekurangan.png",
       "content": "file:///android_asset/content/kekurangan-emoney.html",
@@ -116,7 +116,7 @@
     },
     {
       "id": 4,
-      "category": "cashless-payment",
+      "category": "payment",
       "title": "Cara cek saldo E-money Mandiri",
       "image": "file:///android_asset/image/cek-saldo.png",
       "content": "file:///android_asset/content/cara-cek-saldo-emoney-mandiri.html",
@@ -124,7 +124,7 @@
     },
     {
       "id": 5,
-      "category": "cashless-payment",
+      "category": "payment",
       "title": "Cara Cek saldo E-money tanpa NFC",
       "image": "file:///android_asset/image/tanpa-nfc.png",
       "content": "file:///android_asset/content/cek-saldo-tanpa-nfc.html",
@@ -132,7 +132,7 @@
     },
     {
       "id": 6,
-      "category": "Smartphone,cashless-payment",
+      "category": "Smartphone,payment",
       "title": "Cara isi saldo E-money secara Online",
       "image": "file:///android_asset/image/isi-saldo.png",
       "content": "file:///android_asset/content/cara-isi-saldo-emoney.html",
