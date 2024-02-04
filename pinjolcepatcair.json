@@ -76,17 +76,17 @@
     {
       "id": 1,
       "name": "Mobile",
-      "image": "file:///android_asset/image/mobile.PNG"
+      "image": "file:///android_asset/image/mobile.jpg"
     },
     {
       "id": 2,
       "name": "Online",
-      "image": "file:///android_asset/image/online.PNG"
+      "image": "file:///android_asset/image/online.jpg"
     },
     {
       "id": 3,
       "name": "Pinjol",
-      "image": "file:///android_asset/image/pinjol.PNG"
+      "image": "file:///android_asset/image/pinjol.jpg"
     }
   ],
   "posts": [
