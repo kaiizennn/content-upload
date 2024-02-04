@@ -93,7 +93,7 @@
     {
       "id": 1,
       "category": "Mobile, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : Kredivo",
+      "title": "Kredivo: Cara Ajukan Cicilan, Syarat, hingga Limit Kredit",
       "image": "file:///android_asset/image/kredivo.jpg",
       "content": "file:///android_asset/content/kredivo.html",
       "video": ""
@@ -101,7 +101,7 @@
      {
       "id": 2,
       "category": "Online, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : Akulaku",
+      "title": "Akulaku :  Solusi Baru dan Aman untuk Pinjam Uang Online",
       "image": "file:///android_asset/image/akulaku.jpg",
       "content": "file:///android_asset/content/akulaku.html",
       "video": ""
@@ -109,7 +109,7 @@
     {
       "id": 3,
       "category": "Mobile, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : Danamas",
+      "title": "Danamas : Cara Mengajukan Kredit, Bisa Untuk Modal Usaha",
       "image": "file:///android_asset/image/danamas.jpg",
       "content": "file:///android_asset/content/danamas.html",
       "video": ""
@@ -117,23 +117,23 @@
      {
       "id": 4,
       "category": "Online, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : PinjamYuk",
-      "image": "file:///android_asset/image/pinjamYuk.jpg",
-      "content": "file:///android_asset/content/pinjamyuk.html",
+      "title": "PinjamYuk : Fintech Mudah Pendanaan Multiguna",
+      "image": "file:///android_asset/image/pinjamyuk.jpg",
+      "content": "file:///android_asset/content/pinjamYuk.html",
       "video": ""
     },
      {
       "id": 5,
       "category": "Mobile, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : OK bank",
+      "title": "OK bank : Pinjaman Online Tanpa Jaminan Cair 1 Hari",
       "image": "file:///android_asset/image/okbank.jpg",
-      "content": "file:///android_asset/content/ok bank.html",
+      "content": "file:///android_asset/content/ok Bank.html",
       "video": ""
     },
     {
       "id": 6,
       "category": "Mobile, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : DanaBijak",
+      "title": "DanaBijak : Pinjaman Online Tanpa Jaminan, Bunga Bijak",
       "image": "file:///android_asset/image/danabijak.jpg",
       "content": "file:///android_asset/content/danabijak.html",
       "video": ""
@@ -141,7 +141,7 @@
     {
       "id": 7,
       "category": "Mobile, Pinjol",
-      "title": "Pinjol Ojk Legal Mudah Cair : Rupiah Cepat",
+      "title": "Rupiah Cepat : Pinjaman Uang Online dan KTA Cepat Cair",
       "image": "file:///android_asset/image/rupiahcepat.jpg",
       "content": "file:///android_asset/content/rupiahcepat.html",
       "video": ""
