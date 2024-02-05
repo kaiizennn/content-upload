@@ -1,0 +1,169 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.arsyadev.blackdarkwallpaper4koffline",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "email_feedback_and_report": "youremail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/630097811",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/103317371",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/224769611",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/341983524",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kemensos",
+      "image": "file:///android_asset/image/kemensos.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Online",
+      "image": "file:///android_asset/image/online.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bansos",
+      "image": "file:///android_asset/image/bansos.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Kemensos, Bansos",
+      "title": "Cara Daftar Bansos Kemensos agar Dapat PKH, KIS, dan PIP",
+      "image": "file:///android_asset/image/banso-kemensos.jpg",
+      "content": "file:///android_asset/content/banso-kemensos.html",
+      "video": ""
+    },
+     {
+      "id": 2,
+      "category": "Online, Bansos",
+      "title": "Cara Daftar PKH Terbaru, Lengkap dengan Syarat dan Kriteria Penerima",
+      "image": "file:///android_asset/image/bansos-pkh.jpg",
+      "content": "file:///android_asset/content/bansos-pkh.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Kemensos, Bansos",
+      "title": "Bansos PIP 2024: Syarat dan Cara Pendaftaran",
+      "image": "file:///android_asset/image/bansos-pip.jpg",
+      "content": "file:///android_asset/content/bansos-pip.html",
+      "video": ""
+    },
+     {
+      "id": 4,
+      "category": "Online, Bansos",
+      "title": "Cara Cek Daftar Penerima Bansos BNPT 2024",
+      "image": "file:///android_asset/image/bansos-bnpt.jpg",
+      "content": "file:///android_asset/content/bansos-bnpt.html",
+      "video": ""
+    },
+     {
+      "id": 5,
+      "category": "Kemensos, Bansos",
+      "title": "Cara Cek Status Penerimaan BLT Mitigasi Risiko Pangan Rp 600 Ribu",
+      "image": "file:///android_asset/image/bansos-blt600ribu.jpg",
+      "content": "file:///android_asset/content/bansos-blt600ribu.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Kemensos, Bansos",
+      "title": "Cara Cek Penerima Bansos Bantuan Beras 10 Kg dan pencairannya",
+      "image": "file:///android_asset/image/bansos-beras.jpg",
+      "content": "file:///android_asset/content/bansos-beras.html",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Minimalist Dark",
+      "image": "https://play-lh.googleusercontent.com/Quv98849L01bMWFjR4j-ttrjjmBCvgY42NLAixtWAPiJeCsDW_cO_nvHRBIyVotMiw=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.minimalistdarkwallpaperhd"
+    },
+    {
+      "id": 2,
+      "title": "Cek saldo e-money",
+      "image": "https://play-lh.googleusercontent.com/gMFY7QC7nyBoauh5q5oJdDDw05xRDdODP2L-eCijuEJl8--azTwP_rt-WryfE01-GA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darktexturewallpaper4k"
+    },
+    {
+      "id": 3,
+      "title": "Floral wallpaper",
+      "image": "https://play-lh.googleusercontent.com/GLVo5ECC-h96CorcFSfQi6UQU5onAtSNnAmSwJ0rhSDsF4KVpw3FR346C0luI1PFrxY=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.floralwallpaperaesthetichd"
+    },
+    {
+      "id": 4,
+      "title": "Black dark wallpaper",
+      "image": "https://play-lh.googleusercontent.com/lxl-58D8XttlRcVfxy44TKL9yoXEC0ruMFqEhK8rGpn4THKuOhJdQ1SDegESul6C_eNC=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.blackdarkwallpaper4koffline"
+    }
+  ]
+}
