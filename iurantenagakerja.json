@@ -86,7 +86,7 @@
     {
       "id": 3,
       "name": "Ketenagakerjaan",
-      "image": "file:///android_asset/image/ketenagakerjaan.png"
+      "image": "file:///android_asset/image/ketanagakerjaan.png"
     }
   ],
   "posts": [
@@ -94,7 +94,7 @@
       "id": 1,
       "category": "BPJS, Ketenagakerjaan",
       "title": "Syarat-syarat Daftar BPJS Ketenagakerjaan",
-      "image": "file:///android_asset/image/Syarat-syarat Daftar BPJS Ketenagakerjaan.jpg",
+      "image": "file:///android_asset/image/syarat.jpg",
       "content": "file:///android_asset/content/Syarat-syarat Daftar BPJS Ketenagakerjaan.html",
       "video": ""
     },
