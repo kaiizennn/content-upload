@@ -102,7 +102,7 @@
       "id": 2,
       "category": "Online, Ketenagakerjaan",
       "title": "Cara Mendaftar BPJS Ketenagakerjaan",
-      "image": "file:///android_asset/image/Cara Mendaftar BPJS Ketenagakerjaan.jpg",
+      "image": "file:///android_asset/image/daftar.jpg",
       "content": "file:///android_asset/content/Cara Mendaftar BPJS Ketenagakerjaan.html",
       "video": ""
     },
@@ -110,7 +110,7 @@
       "id": 3,
       "category": "BPJS, Ketenagakerjaan",
       "title": "Cara Cek Tagihan BPJS ketanagakerjaan",
-      "image": "file:///android_asset/image/Cara Cek Tagihan BPJS ketanagakerjaan.jpg",
+      "image": "file:///android_asset/image/tagihan.jpg",
       "content": "file:///android_asset/content/Cara Cek Tagihan BPJS ketanagakerjaan.html",
       "video": ""
     },
@@ -118,7 +118,7 @@
       "id": 4,
       "category": "Online, Ketenagakerjaan",
       "title": "Cek Saldo BPJS Ketenagakerjaan",
-      "image": "file:///android_asset/image/Cek Saldo BPJS Ketenagakerjaan.jpg",
+      "image": "file:///android_asset/image/saldo.jpg",
       "content": "file:///android_asset/content/Cek Saldo BPJS Ketenagakerjaan.html",
       "video": ""
     },
@@ -134,7 +134,7 @@
       "id": 6,
       "category": "BPJS, Ketenagakerjaan",
       "title": "Pengajuan klaim saldo JHT secara online",
-      "image": "file:///android_asset/image/Pengajuan klaim saldo JHT secara online.jpg",
+      "image": "file:///android_asset/image/onlne.jpg",
       "content": "file:///android_asset/content/Pengajuan klaim saldo JHT secara online.html",
       "video": ""
     },
@@ -142,7 +142,7 @@
       "id": 7,
       "category": "BPJS, Online",
       "title": "Cara Bayar BPJS Ketenagakerjaan",
-      "image": "file:///android_asset/image/Cara Bayar BPJS Ketenagakerjaan.jpg",
+      "image": "file:///android_asset/image/bayar.jpg",
       "content": "file:///android_asset/content/Cara Bayar BPJS Ketenagakerjaan.html",
       "video": ""
     },
@@ -150,7 +150,7 @@
       "id": 8,
       "category": "Online, Ketenagakerjaan",
       "title": "Manfaat Keikutsertaan BPJS Ketenagakerjaan",
-      "image": "file:///android_asset/image/Manfaat Keikutsertaan BPJS Ketenagakerjaan.jpg",
+      "image": "file:///android_asset/image/manfaat.jpg",
       "content": "file:///android_asset/content/Manfaat Keikutsertaan BPJS Ketenagakerjaan.html",
       "video": ""
     }
