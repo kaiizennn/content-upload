@@ -76,17 +76,17 @@
     {
       "id": 1,
       "name": "BPJS",
-      "image": "file:///android_asset/image/bpjs.jpg"
+      "image": "file:///android_asset/image/bpjs.png"
     },
     {
       "id": 2,
       "name": "Online",
-      "image": "file:///android_asset/image/online.jpg"
+      "image": "file:///android_asset/image/online.png"
     },
     {
       "id": 3,
       "name": "Ketenagakerjaan",
-      "image": "file:///android_asset/image/ketenagakerjaan.jpg"
+      "image": "file:///android_asset/image/ketenagakerjaan.png"
     }
   ],
   "posts": [
