@@ -86,7 +86,7 @@
     {
       "id": 3,
       "name": "payment",
-      "image": "file:///android_asset/image/cashless-payment.png"
+      "image": "file:///android_asset/image/payment.png"
     }
   ],
   "posts": [
