@@ -81,12 +81,12 @@
     {
       "id": 2,
       "name": "Pendaftaran",
-      "image": "file:///android_asset/image/pendaftaran.png"
+      "image": "file:///android_asset/image/Pendaftaran.png"
     },
     {
       "id": 3,
       "name": "Info",
-      "image": "file:///android_asset/image/info.png"
+      "image": "file:///android_asset/image/Info.png"
     }
   ],
   "posts": [
