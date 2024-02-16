@@ -1,0 +1,168 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.arsyadev.blackdarkwallpaper4koffline",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "email_feedback_and_report": "youremail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bantuan",
+      "image": "file:///android_asset/image/bantuan.png"
+    },
+    {
+      "id": 2,
+      "name": "Online",
+      "image": "file:///android_asset/image/online.png"
+    },
+    {
+      "id": 3,
+      "name": "PIP",
+      "image": "file:///android_asset/image/pip.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Bantuan, PIP",
+      "title": "Cara Cek Status Penerimaan PIP di pip.kemdikbud",
+      "image": "file:///android_asset/image/cek.jpg",
+      "content": "file:///android_asset/content/Cara Cek Status Penerimaan PIP di pip.kemdikbud.html",
+      "video": ""
+    },
+     {
+      "id": 2,
+      "category": "Online, PIP",
+      "title": "Syarat Penerima PIP Kemdikbud",
+      "image": "file:///android_asset/image/syarat.jpg",
+      "content": "file:///android_asset/content/Syarat Penerima PIP Kemdikbud.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Bantuan, PIP",
+      "title": "Cara Daftar PIP Kemdikbud",
+      "image": "file:///android_asset/image/daftar.jpg",
+      "content": "file:///android_asset/content/Cara Daftar PIP Kemdikbud.html",
+      "video": ""
+    },
+     {
+      "id": 4,
+      "category": "Online, PIP",
+      "title": "Rincian besar bantuan PIP Kemdikbud",
+      "image": "file:///android_asset/image/rincian.jpg",
+      "content": "file:///android_asset/content/Rincian besar bantuan PIP.html",
+      "video": ""
+    },
+     {
+      "id": 5,
+      "category": "Bantuan, PIP",
+      "title": "Cara Aktivasi Rekening PIP Kemdikbud 2024",
+      "image": "file:///android_asset/image/aktivasi.jpg",
+      "content": "file:///android_asset/content/Cara Aktivasi Rekening PIP Kemdikbud 2024.html",
+      "video": ""
+    },
+     {
+      "id": 6,
+      "category": "Online, Bantuan",
+      "title": "langkah-langkah penting PIP kemendikbud",
+      "image": "file:///android_asset/image/langkah.jpg",
+      "content": "file:///android_asset/content/langkah-langkah penting PIP kemendikbud.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Cara Daftar & Cek NPWP Online",
+      "image": "https://play-lh.googleusercontent.com/rqxfNAudRqr1mb-e8L_VZdg9OO4LGV6OnBMEpJebYQRqFjaUAwVGv4qFuCFabD6e513R=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darkforestwallpaper4koffline"
+    },
+    {
+      "id": 2,
+      "title": "Cek saldo e-money",
+      "image": "https://play-lh.googleusercontent.com/gMFY7QC7nyBoauh5q5oJdDDw05xRDdODP2L-eCijuEJl8--azTwP_rt-WryfE01-GA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darktexturewallpaper4k"
+    },
+    {
+      "id": 3,
+      "title": "Daftar Jaminan ketenagaKerjaan",
+      "image": "https://play-lh.googleusercontent.com/hVz2gEIE7qa7VN08ArBcsrI4BlVK3SQ8SiYj7dbaCGVQMaGwB_0iCK9CQqCjZ-PTQuo=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.floralwallpaperaesthetichd"
+    },
+    {
+      "id": 4,
+      "title": "Cara Daftar BPJS Online via HP",
+      "image": "https://play-lh.googleusercontent.com/3DbpfJfOXNGQq4QwzXM8xIBbomMQ5gpTv68AkA2xMa9wuEDA0yHzTYBgQMOyuXxb7w=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.blackdarkwallpaper4koffline"
+    }
+  ]
+}
