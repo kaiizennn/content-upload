@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "redirect_url": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.arsyadev.car4kwallpapersoffline",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
       "email_feedback_and_report": "youremail@gmail.com",
       "webview_cache": true,
@@ -24,10 +24,10 @@
       "ad_status": 1,
       "main_ad": "admob",
       "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978156",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173756",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696165",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835265",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -140,28 +140,28 @@
     }
   ],
   "more_apps": [
-    {
+     {
       "id": 1,
-      "title": "Minimalist dark",
-      "image": "https://play-lh.googleusercontent.com/Quv98849L01bMWFjR4j-ttrjjmBCvgY42NLAixtWAPiJeCsDW_cO_nvHRBIyVotMiw=w240-h480-rw",
+      "title": "Cek Penerima PIP Kemdikbud HP",
+      "image": "https://play-lh.googleusercontent.com/a9RhGnzAO_4hIXyfJTaW6IDacXOGo_fedP2jMRmg48d0262tSq6xjfQc9lSxMra5o09b=w240-h480-rw",
       "url": "https://play.google.com/store/apps/details?id=com.arsyadev.minimalistdarkwallpaperhd"
     },
     {
       "id": 2,
-      "title": "Sunset Aesthetic",
-      "image": "https://play-lh.googleusercontent.com/r4i9TuZsHpOCQs3OQDrWkMiVlUnIFOBUcx8qr_7N3Z-QZrZXQ3khcBLvyhCOC1zNPMvp=w240-h480-rw",
+      "title": "Cara Cek BI Checking Online Hp",
+      "image": "https://play-lh.googleusercontent.com/HTnTKsKjcMiRulTpLpGxrLbhKgzUUFHh0LfuL3Esw3eTh7oK9i8uyxP-wbzoerYYW6jG=w240-h480-rw",
       "url": "https://play.google.com/store/apps/details?id=com.arsyadev.sunsetwallpaperaesthetic4k"
     },
     {
       "id": 3,
-      "title": "Floral Aesthetic",
-      "image": "https://play-lh.googleusercontent.com/GLVo5ECC-h96CorcFSfQi6UQU5onAtSNnAmSwJ0rhSDsF4KVpw3FR346C0luI1PFrxY=w240-h480-rw",
+      "title": "Daftar Jaminan ketenagaKerjaan",
+      "image": "https://play-lh.googleusercontent.com/hVz2gEIE7qa7VN08ArBcsrI4BlVK3SQ8SiYj7dbaCGVQMaGwB_0iCK9CQqCjZ-PTQuo=w240-h480-rw",
       "url": "https://play.google.com/store/apps/details?id=com.arsyadev.floralwallpaperaesthetichd"
     },
     {
       "id": 4,
-      "title": "Dark texture",
-      "image": "https://play-lh.googleusercontent.com/uGvsh7TyWC4PJ04cgMIOpFT0wXtIHoMJVvaOT1xqOqb6-gsr0gufCws6cVCO_-HiWsAq=w240-h480-rw",
+      "title": "Cara Cek Saldo e-money Lengkap",
+      "image": "https://play-lh.googleusercontent.com/gMFY7QC7nyBoauh5q5oJdDDw05xRDdODP2L-eCijuEJl8--azTwP_rt-WryfE01-GA=w240-h480-rw",
       "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darktexturewallpaper4k"
     }
   ]
