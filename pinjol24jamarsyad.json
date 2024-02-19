@@ -1,0 +1,192 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.arsyadev.car4kwallpapersoffline",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "email_feedback_and_report": "youremail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Online",
+      "image": "file:///android_asset/image/online.png"
+    },
+    {
+      "id": 2,
+      "name": "Pinjam",
+      "image": "file:///android_asset/image/pinjam.png"
+    },
+    {
+      "id": 3,
+      "name": "Pinjol",
+      "image": "file:///android_asset/image/pinjol.png"
+    }
+  ],
+  "posts": [
+  {
+      "id": 1,
+      "category": "Online,Pinjam",
+      "title": "Hal yang Harus Diperhatikan sebelum Pinjam Uang di Pinjol",
+      "image": "file:///android_asset/image/diperhatikan.jpg",
+      "content": "file:///android_asset/content/Hal yang Harus Diperhatikan sebelum Pinjam Uang di Pinjol.html",
+      "video": ""
+    },
+   {
+      "id": 2,
+      "category": "Online,Pinjam",
+      "title": "Kredivo : Cara Ajukan Cicilan, Syarat, hingga Limit Kredit",
+      "image": "file:///android_asset/image/kredivo.jpg",
+      "content": "file:///android_asset/content/Kredivo Cara Ajukan Cicilan, Syarat, hingga Limit Kredit.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Online, Pinjol",
+      "title": "Tunaiku : Pinjaman Online OJK Tanpa Jaminan",
+      "image": "file:///android_asset/image/tunaiku.jpg",
+      "content": "file:///android_asset/content/Tunaiku Pinjaman Online OJK Tanpa Jaminan.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Pinjam",
+      "title": "Indosaku : Platform Pembiayaan Berbasis Teknologi",
+      "image": "file:///android_asset/image/indosaku.jpg",
+      "content": "file:///android_asset/content/Indosaku Platform Pembiayaan Berbasis Teknologi.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Pinjol",
+      "title": "DanaBijak : Pinjaman Cepat Rp3 juta Dalam 8 menit",
+      "image": "file:///android_asset/image/bijak.jpg",
+      "content": "file:///android_asset/content/DanaBijak Pinjaman Cepat Rp3 juta Dalam 8 menit.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Pinjol",
+      "title": "Rupiah Cepat : Pinjaman Uang Online dan KTA Cepat Cair",
+      "image": "file:///android_asset/image/rupiah.jpg",
+      "content": "file:///android_asset/content/Rupiah Cepat Pinjaman Uang Online dan KTA Cepat Cair.html",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Pinjol",
+      "title": "KreditPintar : Aplikasi Instan Pinjaman Online Tunai",
+      "image": "file:///android_asset/image/kredit.jpg",
+      "content": "file:///android_asset/content/KreditPintar Aplikasi Instan Pinjaman Online Tunai.html",
+      "video": ""
+    },
+	{
+      "id": 8,
+      "category": "Pinjol",
+      "title": "UangMe : Pinjaman Online & Cicilan dan Pendanaan Resmi ojk",
+      "image": "file:///android_asset/image/uangme.jpg",
+      "content": "file:///android_asset/content/UangMe  Pinjaman Online & Cicilan dan Pendanaan Resmi ojk.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Online,Pinjol",
+      "title": "Pinjaman di Indodana, Limit Lebih Besar, Cairnya Lebih Cepat",
+      "image": "file:///android_asset/image/indodana.jpg",
+      "content": "file:///android_asset/content/Pinjaman di Indodana, Limit Lebih Besar, Cairnya Lebih Cepat.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Cek Penerima PIP Kemdikbud HP",
+      "image": "https://play-lh.googleusercontent.com/a9RhGnzAO_4hIXyfJTaW6IDacXOGo_fedP2jMRmg48d0262tSq6xjfQc9lSxMra5o09b=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.minimalistdarkwallpaperhd"
+    },
+    {
+      "id": 2,
+      "title": "Cara Cek BI Checking Online Hp",
+      "image": "https://play-lh.googleusercontent.com/HTnTKsKjcMiRulTpLpGxrLbhKgzUUFHh0LfuL3Esw3eTh7oK9i8uyxP-wbzoerYYW6jG=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.sunsetwallpaperaesthetic4k"
+    },
+    {
+      "id": 3,
+      "title": "Daftar Jaminan ketenagaKerjaan",
+      "image": "https://play-lh.googleusercontent.com/hVz2gEIE7qa7VN08ArBcsrI4BlVK3SQ8SiYj7dbaCGVQMaGwB_0iCK9CQqCjZ-PTQuo=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.floralwallpaperaesthetichd"
+    },
+    {
+      "id": 4,
+      "title": "Cara Cek Saldo e-money Lengkap",
+      "image": "https://play-lh.googleusercontent.com/gMFY7QC7nyBoauh5q5oJdDDw05xRDdODP2L-eCijuEJl8--azTwP_rt-WryfE01-GA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darktexturewallpaper4k"
+    }
+  ]
+}
