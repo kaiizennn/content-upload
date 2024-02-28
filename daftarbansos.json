@@ -68,8 +68,8 @@
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
       "show_native_ad_exit_dialog": true,
-      "show_open_ad_on_app_start": true,
-      "show_open_ad_on_app_resume": true
+      "show_open_ad_on_app_start": false,
+      "show_open_ad_on_app_resume": false
     }
   ],
   "categories": [
