@@ -144,10 +144,10 @@
     {
       "id": 5,
       "category": "Regional",
-      "title": "ADI TV",
+      "title": "Metro TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/dash/expire/1709577307/ei/-r_lZaeMOrWRz7sP48yUoAg/ip/2404%3Ac0%3A7450%3A0%3A0%3A1%3A9cca%3A6172/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/all/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/siu/1/spc/UWF9f5A22MlFbLXDeb_KHWDRnknmTffB1-t0-6_8dVB8nBIWrCJNkoXP2bGD/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cas%2Csiu%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALDYq3gBFImy_XpB4WgPNKB5CSjaojTP2FTWoGuGQYaGAiEA35CvoZO44-VrOD7R__ifPpDkR4AdmmupJB1W-T8PFVI%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709577307/ei/-r_lZaeMOrWRz7sP48yUoAg/ip/2404%3Ac0%3A7450%3A0%3A0%3A1%3A9cca%3A6172/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5A22MlFbLXDeb_KHWDRnknmTffB1-t0-6_8dVB8nBIWrCJNkoXP2bGD/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZOQMujZjgkvQQkXIg07jOywm-v_ANlGwYRvm_4swAFICIAhOQkRKglj-XPkxCO2ZndwPJGdxsud-er3Rg1n-nJbr/file/index.m3u8",
       "user_agent": ""
     },
     {
