@@ -191,17 +191,17 @@
       "category": "Entertainment, National",
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "MNCTV singkatan dari Media Nusantara Citra Televisi, sebelumnya bernama TPI adalah sebuah jaringan televisi swasta nasional di Indonesia. Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB.",
       "streaming_url": "https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1709576115-106bb59a718712624442fcb2d9347643-l3KGEoWoNcRzA2D07OvgkkcngnNO4xhZFx7caeEK-43b214acdd339cbe3c6aa3509d53b592",
       "user_agent": ""
     },
     {
       "id": 11,
       "category": "Entertainment, News, National",
-      "title": "Indosiar",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/indosiar.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/indosiar.mp4",
+      "title": "Rtv",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Rtv.png",
+      "description": "RTV singkatan dari Rajawali Televisi, digayakan dengan semuanya huruf kecil) adalah sebuah jaringan televisi umum nasional di Indonesia yang dimiliki oleh Rajawali Corpora. Resmi mengudara pada tanggal 1 November 2009 di Jakarta dengan nama B-Channel, pada tanggal 3 Mei 2014, namanya berganti menjadi RTV.",
+      "streaming_url": "https://etslive-2-vidio-com.secureswiftcontent.com/exp=1709573392~acl=/hls-p/ingest_1561_*/*~hmac=24c354a74c7a18747f8fda5a87f924bd43e9d681d3b54ef2ce4fbffdaf8327ea/hls-p/ingest_1561_720p/index.m3u8",
       "user_agent": ""
     },
     {
@@ -209,7 +209,7 @@
       "category": "News",
       "title": "TV ONE",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvone.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "tvOne adalah sebuah jaringan televisi swasta nasional di Indonesia yang berfokus pada konten berita. Berawal dari penggunaan nama Lativi, jaringan televisi ini diluncurkan pada tanggal 30 Juli 2002 dan awalnya dimiliki oleh ALatief Corporation, milik pengusaha Abdul Latief.",
       "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709576861/ei/PL7lZcfePPW4juMP7NGK8A8/ip/2404%3Ac0%3A7440%3A0%3A0%3A1%3Aa692%3A1a6a/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzfjmb3bkxnFBzcrqjVvJz9uiqKSjMBWfI3YdNVnb_QKMSWQIh7b9xCT/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANgBuHkKwXFHHRhShrAzti5pe2lony779CuD8r43s4xpAiB38GBkMOl3rzAITAoRdEcOYGJV3iQOFELgrIfSAAVLxA%3D%3D/file/index.m3u8",
       "user_agent": ""
     },
@@ -218,7 +218,7 @@
       "category": "Entertainment, National",
       "title": "Trans TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/transtv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV)[1] adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya.",
       "streaming_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w33600897_b544100_sleng.m3u8",
       "user_agent": ""
     },
