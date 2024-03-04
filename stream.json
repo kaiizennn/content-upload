@@ -192,7 +192,7 @@
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/mnctv.mp4",
+      "streaming_url": "https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1709576115-106bb59a718712624442fcb2d9347643-l3KGEoWoNcRzA2D07OvgkkcngnNO4xhZFx7caeEK-43b214acdd339cbe3c6aa3509d53b592",
       "user_agent": ""
     },
     {
@@ -237,7 +237,7 @@
       "title": "CNN Indonesia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8",
+      "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w153037437_b384000_sleng.m3u8",
       "user_agent": ""
     }
   ],
