@@ -111,7 +111,7 @@
       "title": "SCTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/sctv.mp4",
+      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1709569214~acl=/hls-b/ingest_204_*/*~hmac=1482669b04e87ffb8f8676ec172e5dd2d385216fe8fe4d9f8b154d56148e3bd7/hls-b/ingest_204_720p/index.m3u8",
       "user_agent": ""
     },
     {
