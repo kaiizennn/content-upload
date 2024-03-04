@@ -226,7 +226,7 @@
       "id": 14,
       "category": "World, News",
       "title": "Kompas TV",
-      "image": "file:///android_asset/image/payment.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/kompas.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709577390/ei/TsDlZcrcNtyavcAPtpKr2Ag/ip/2404%3Ac0%3A7450%3A0%3A0%3A1%3A9cca%3A6172/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f4SFB4vV8jf3tW0Rqqzvnez_bFV3gVIrtCPXQo-BSVfOyccyrxGAek0Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgY1j_HFbVOrk_WMygP1oMicMAA0NrCMUINCeTgP_0_RcCICjigk3DdlABn6XtLbByelNSNITSlddh_U-aVOXSmd1R/file/index.m3u8",
       "user_agent": ""
