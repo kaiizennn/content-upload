@@ -248,13 +248,23 @@
       "description": "TV streaming dakwah Ahlus Sunnah wal Jama'ah berlandaskan pemahaman para Shahabat yang disiarkan langsung 24 jam dari studio RodjaTV.",
       "streaming_url": "https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8",
       "user_agent": ""
-    },    {
+    },    
+    {
       "id": 17,
       "category": "Religion, World",
       "title": "Al Jazeera TV",
       "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/aljazeera.png",
       "description": "Al Jazeera adalah stasiun televisi berbahasa Arab dan Inggris yang berbasis di Doha, Qatar. Stasiun TV ini menjadi populer setelah serangan 11 September 2001, ketika stasiun ini menyiarkan rekaman pernyataan Osama bin Laden dan pimpinan al-Qaeda lainnya.",
       "streaming_url": "https://etslive-2-vidio-com.secureswiftcontent.com/exp=1709574480~acl=/hls-p/ingest_6410_*/*~hmac=9543a061316d720efab5e6f96215dc30a8ba8973730358fbb19bcdb490a53fee/hls-p/ingest_6410_720p/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 17,
+      "category": "Religion, Regional",
+      "title": "tvMU",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/aljazeera.png",
+      "description": "tvMu adalah stasiun televisi terestrial digital bernuansa Islami yang dimiliki oleh ormas keagamaan Muhammadiyah. Stasiun ini diluncurkan sebagai stasiun televisi satelit pada 18 November 2013 oleh Muhammadiyah, bertepatan dengan ulang tahun atau milad Muhammadiyah yang ke-101.",
+      "streaming_url": "https://e.siar.us/live/tvmu.m3u8",
       "user_agent": ""
     }
   ],
