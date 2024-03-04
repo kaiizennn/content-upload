@@ -76,7 +76,7 @@
     {
       "id": 1,
       "name": "News",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/News.png"
     },
     {
       "id": 2,
@@ -91,7 +91,7 @@
     {
       "id": 4,
       "name": "Regional",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Regional.png"
     },
     {
       "id": 5,
@@ -101,7 +101,7 @@
     {
       "id": 6,
       "name": "World",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/World.png"
     }
   ],
   "channels": [
