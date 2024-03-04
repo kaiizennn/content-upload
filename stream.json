@@ -110,7 +110,7 @@
       "category": "Entertainment, National",
       "title": "SCTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "SCTV adalah sebuah jaringan televisi swasta nasional di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur.",
       "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1709569214~acl=/hls-b/ingest_204_*/*~hmac=1482669b04e87ffb8f8676ec172e5dd2d385216fe8fe4d9f8b154d56148e3bd7/hls-b/ingest_204_720p/index.m3u8",
       "user_agent": ""
     },
@@ -119,7 +119,7 @@
       "category": "Entertainment, National",
       "title": "RCTI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia.",
       "streaming_url": "https://rcdn.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1709571574-ab3758f7e926740a3c109f454eb8de46-0-5adb0afa9e8866e43e1a30af42c67bfc",
       "user_agent": ""
     },
@@ -128,7 +128,7 @@
       "category": "Entertainment, National",
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "GTV, sebelumnya bernama Global TV adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya.",
       "streaming_url": "https://mbd-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1709573155-3b747e06ca805f7878de61617274d401-nvDuoJbdazJy8hWwzFcm0CeXvgOmlMLymJfbfX5u-9b33a80a5f0aa692cd3e7e3834650f20",
       "user_agent": ""
     },
@@ -137,7 +137,7 @@
       "category": "Entertainment, National",
       "title": "Trans 7",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta.",
       "streaming_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1751931519_b744100_sleng.m3u8",
       "user_agent": ""
     },
@@ -146,7 +146,7 @@
       "category": "Regional",
       "title": "Metro TV",
       "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Metro.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "MetroTV adalah sebuah jaringan televisi swasta berita yang berkedudukan di Indonesia. MetroTV didirikan oleh PT Media Televisi Indonesia, resmi mengudara sejak 25 November 2000 di Jakarta.",
       "streaming_url": "https://manifest.googlevideo.com/api/manifest/dash/expire/1709577307/ei/-r_lZaeMOrWRz7sP48yUoAg/ip/2404%3Ac0%3A7450%3A0%3A0%3A1%3A9cca%3A6172/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/all/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/siu/1/spc/UWF9f5A22MlFbLXDeb_KHWDRnknmTffB1-t0-6_8dVB8nBIWrCJNkoXP2bGD/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cas%2Csiu%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALDYq3gBFImy_XpB4WgPNKB5CSjaojTP2FTWoGuGQYaGAiEA35CvoZO44-VrOD7R__ifPpDkR4AdmmupJB1W-T8PFVI%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709577307/ei/-r_lZaeMOrWRz7sP48yUoAg/ip/2404%3Ac0%3A7450%3A0%3A0%3A1%3A9cca%3A6172/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5A22MlFbLXDeb_KHWDRnknmTffB1-t0-6_8dVB8nBIWrCJNkoXP2bGD/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZOQMujZjgkvQQkXIg07jOywm-v_ANlGwYRvm_4swAFICIAhOQkRKglj-XPkxCO2ZndwPJGdxsud-er3Rg1n-nJbr/file/index.m3u8",
       "user_agent": ""
     },
@@ -155,7 +155,7 @@
       "category": "News, National",
       "title": "Berita Satu",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "description": "BTV adalah sebuah jaringan televisi swasta digital di Indonesia. Sebelumnya sempat bernama Q Channel, QTV dan BeritaSatu yang berfokus pada penonton televisi berlangganan dan kalangan menengah ke atas, mulai 11 Oktober 2022, namanya berganti menjadi nama saat ini, dan siarannya mulai dapat disaksikan di berbagai daerah di Indonesia.",
       "streaming_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8",
       "user_agent": ""
     },
