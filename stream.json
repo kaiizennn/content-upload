@@ -163,7 +163,7 @@
       "id": 7,
       "category": "Religion",
       "title": "Moji TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/moji.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1709572114~acl=/hls-p/ingest_206_*/*~hmac=b342eb4c9968258aaef7754a02da15b0bc864a1f77db985059ca2b14f34cc37b/hls-p/ingest_206_720p/index.m3u8",
       "user_agent": ""
