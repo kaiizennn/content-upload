@@ -239,26 +239,43 @@
       "description": "CNN Indonesia adalah sebuah jaringan televisi berita digital gratis dan berbayar (di Transvision dan IndiHome TV), serta situs berita milik Trans Media dengan mengambil lisensi nama CNN dari Warner Bros.",
       "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w153037437_b384000_sleng.m3u8",
       "user_agent": ""
+    },
+    {
+      "id": 16,
+      "category": "Religion",
+      "title": "Rodja TV",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
+      "description": "TV streaming dakwah Ahlus Sunnah wal Jama'ah berlandaskan pemahaman para Shahabat yang disiarkan langsung 24 jam dari studio RodjaTV.",
+      "streaming_url": "https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8",
+      "user_agent": ""
+    },    {
+      "id": 17,
+      "category": "Religion",
+      "title": "Al Jazeera TV",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/aljazeera.png",
+      "description": "Al Jazeera (الجزيرة yang berarti "pulau" atau "jazirah") adalah stasiun televisi berbahasa Arab dan Inggris yang berbasis di Doha, Qatar. Stasiun TV ini menjadi populer setelah serangan 11 September 2001, ketika stasiun ini menyiarkan rekaman pernyataan Osama bin Laden dan pimpinan al-Qaeda lainnya.",
+      "streaming_url": "https://etslive-2-vidio-com.secureswiftcontent.com/exp=1709574480~acl=/hls-p/ingest_6410_*/*~hmac=9543a061316d720efab5e6f96215dc30a8ba8973730358fbb19bcdb490a53fee/hls-p/ingest_6410_720p/index.m3u8",
+      "user_agent": ""
     }
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "Pra kerja",
+      "image": "https://play-lh.googleusercontent.com/DBQt58HfFHeROk2C7DLhhaMmaCgMUckR_Pfhukfdm5zrMiZg4MVLrQXj-jcPOg6fpw=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.racingcars4kwallpapers"
     },
     {
       "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "NPWP Online",
+      "image": "https://play-lh.googleusercontent.com/0ZaHvQHWZsP9tgFVbTgowUKGkPlufneCZmVBnc6B2JiqrrYBYMLUAGTzRRR1WtJWDw=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darkforestwallpaper4koffline"
     },
     {
       "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+      "title": "BI checking",
+      "image": "https://play-lh.googleusercontent.com/h9xwlaoD2eKN30RPQpY-QEWxnuGXzaoWQyMBCjEW-Zoz0mo9HTmvSipIoa_JW3IxqQ=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.sunsetwallpaperaesthetic4k"
     }
   ]
 }
