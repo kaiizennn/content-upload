@@ -129,7 +129,7 @@
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://mbd-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8",
+      "streaming_url": "https://mbd-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1709573155-3b747e06ca805f7878de61617274d401-nvDuoJbdazJy8hWwzFcm0CeXvgOmlMLymJfbfX5u-9b33a80a5f0aa692cd3e7e3834650f20",
       "user_agent": ""
     },
     {
