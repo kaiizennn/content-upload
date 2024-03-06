@@ -77,7 +77,7 @@
     {
       "id": 1,
       "name": "Paylater",
-      "image": "file:///android_asset/image/Paylater.png"
+      "image": "file:///android_asset/image/paylater.png"
     },
     {
       "id": 2,
@@ -87,7 +87,7 @@
     {
       "id": 3,
       "name": "Shop",
-      "image": "file:///android_asset/image/Shop.png"
+      "image": "file:///android_asset/image/shop.png"
     }
   ],
   "posts": [
