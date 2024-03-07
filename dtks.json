@@ -77,17 +77,17 @@
     {
       "id": 1,
       "name": "Kemensos",
-      "image": "file:///android_asset/image/kemensos.jpg"
+      "image": "file:///android_asset/image/kemensos.png"
     },
     {
       "id": 2,
       "name": "Online",
-      "image": "file:///android_asset/image/online.jpg"
+      "image": "file:///android_asset/image/online.png"
     },
     {
       "id": 3,
       "name": "Bansos",
-      "image": "file:///android_asset/image/bansos.jpg"
+      "image": "file:///android_asset/image/bansos.png"
     }
   ],
   "posts": [
