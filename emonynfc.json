@@ -141,29 +141,29 @@
     }
   ],
   "more_apps": [
-    {
+   {
       "id": 1,
-      "title": "Minimalist dark",
-      "image": "https://play-lh.googleusercontent.com/Quv98849L01bMWFjR4j-ttrjjmBCvgY42NLAixtWAPiJeCsDW_cO_nvHRBIyVotMiw=w240-h480-rw",
+      "title": "Penerima PIP Kemdikbud",
+      "image": "https://play-lh.googleusercontent.com/evdFP9kdlm3SKcY1-JCEHxe76oNX7Vl4gdtqoCoadxxAB4QoVkoQqLkfNuLgagCspBoE=w240-h480-rw",
       "url": "https://play.google.com/store/apps/details?id=com.arsyadev.minimalistdarkwallpaperhd"
     },
     {
       "id": 2,
-      "title": "Sunset Aesthetic",
-      "image": "https://play-lh.googleusercontent.com/r4i9TuZsHpOCQs3OQDrWkMiVlUnIFOBUcx8qr_7N3Z-QZrZXQ3khcBLvyhCOC1zNPMvp=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.sunsetwallpaperaesthetic4k"
+      "title": "Cek saldo e-money",
+      "image": "https://play-lh.googleusercontent.com/gMFY7QC7nyBoauh5q5oJdDDw05xRDdODP2L-eCijuEJl8--azTwP_rt-WryfE01-GA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darktexturewallpaper4k"
     },
     {
       "id": 3,
-      "title": "Floral Aesthetic",
-      "image": "https://play-lh.googleusercontent.com/GLVo5ECC-h96CorcFSfQi6UQU5onAtSNnAmSwJ0rhSDsF4KVpw3FR346C0luI1PFrxY=w240-h480-rw",
+      "title": "Cara Daftar Jaminan Pekerja",
+      "image": "https://play-lh.googleusercontent.com/7yMNheGghiXKAxkBpuq8DdXsvaxwyPhTvNfz4eSWfYRJRa_Ul0oDs63L47AMcPTL7g=w240-h480-rw",
       "url": "https://play.google.com/store/apps/details?id=com.arsyadev.floralwallpaperaesthetichd"
     },
     {
       "id": 4,
-      "title": "Dark texture",
-      "image": "https://play-lh.googleusercontent.com/uGvsh7TyWC4PJ04cgMIOpFT0wXtIHoMJVvaOT1xqOqb6-gsr0gufCws6cVCO_-HiWsAq=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.darktexturewallpaper4k"
+      "title": "Cara Daftar BPJS Online",
+      "image": "https://play-lh.googleusercontent.com/bUMtXXT_KPiOY5bhW4Dt1tlNbbvFtv-Uf40r_eAWl86xHfADUTXb5r-9tMl99LQEnNQ=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsyadev.blackdarkwallpaper4koffline"
     }
   ]
 }
