@@ -95,7 +95,7 @@
       "id": 1,
       "category": "Smartphone,mobile",
       "title": "Definisi e-Money: Manfaat, Risiko, dan Bedanya dengan e-Wallet",
-      "image": "file:///android_asset/image/e-money.jpg",
+      "image": "file:///android_asset/image/emoney.jpg",
       "content": "file:///android_asset/content/pengertian-emoney.html",
       "video": ""
     },
@@ -119,7 +119,7 @@
       "id": 4,
       "category": "payment",
       "title": "Cara Cek Saldo e Money mandiri, Bisa Langsung Top Up",
-      "image": "file:///android_asset/image/cek-saldo.jpg",
+      "image": "file:///android_asset/image/ceksaldo.jpg",
       "content": "file:///android_asset/content/cara-cek-saldo-emoney-mandiri.html",
       "video": ""
     },
@@ -127,7 +127,7 @@
       "id": 5,
       "category": "payment",
       "title": "Cara Cek Saldo e-Money Mandiri, Dijamin Cepat dan Mudah tanpa NFC",
-      "image": "file:///android_asset/image/tanpa-nfc.jpg",
+      "image": "file:///android_asset/image/tanpanfc.jpg",
       "content": "file:///android_asset/content/cek-saldo-tanpa-nfc.html",
       "video": ""
     },
@@ -135,7 +135,7 @@
       "id": 6,
       "category": "Smartphone,payment",
       "title": "Top Up E-money di Livin by Mandiri Dengan atau Tanpa NFC, Simak Caranya",
-      "image": "file:///android_asset/image/isi-saldo.jpg",
+      "image": "file:///android_asset/image/isisaldo.jpg",
       "content": "file:///android_asset/content/cara-isi-saldo-emoney.html",
       "video": ""
     }
