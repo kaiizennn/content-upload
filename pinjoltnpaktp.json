@@ -59,7 +59,7 @@
       "native_ad_interval": 8,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
-      "show_banner_ad_home": false,
+      "show_banner_ad_home": true,
       "show_banner_ad_post_details": false,
       "show_banner_ad_category_details": false,
       "show_banner_ad_search": false,
