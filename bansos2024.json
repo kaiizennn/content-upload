@@ -77,17 +77,17 @@
     {
       "id": 1,
       "name": "Kemensos",
-      "image": "file:///android_asset/image/kemensos.jpg"
+      "image": "file:///android_asset/image/kemensos.png"
     },
     {
       "id": 2,
       "name": "Online",
-      "image": "file:///android_asset/image/online.jpg"
+      "image": "file:///android_asset/image/online.png"
     },
     {
       "id": 3,
       "name": "Bansos",
-      "image": "file:///android_asset/image/bansos.jpg"
+      "image": "file:///android_asset/image/bansos.png"
     }
   ],
   "posts": [
@@ -103,7 +103,7 @@
       "id": 2,
       "category": "Online, Bansos",
       "title": "Cara Cek Penerima Bansos Bulan Maret 2024, Klik Link Resminya di Sini",
-      "image": "file:///android_asset/image/bansos-pkh.jpg",
+      "image": "file:///android_asset/image/bansospkh.jpg",
       "content": "file:///android_asset/content/bansospkh.html",
       "video": ""
     },
@@ -111,7 +111,7 @@
       "id": 3,
       "category": "Kemensos, Bansos",
       "title": "Cara Cek Siswa Penerima Beasiswa PIP 2024 di pip.kemdikbud.go.id",
-      "image": "file:///android_asset/image/bansos-pip.jpg",
+      "image": "file:///android_asset/image/bansospip.jpg",
       "content": "file:///android_asset/content/bansospip.html",
       "video": ""
     },
@@ -119,7 +119,7 @@
       "id": 4,
       "category": "Online, Bansos",
       "title": "Cara Cek Penerima Bansos BPNT 2024 Pakai KTP, Bisa Lewat HP",
-      "image": "file:///android_asset/image/bansos-bnpt.jpg",
+      "image": "file:///android_asset/image/bansosbnpt.jpg",
       "content": "file:///android_asset/content/bansosbnpt.html",
       "video": ""
     },
@@ -127,7 +127,7 @@
       "id": 5,
       "category": "Kemensos, Bansos",
       "title": "Cara Cek Status Penerimaan BLT Mitigasi Risiko Pangan Rp 600 Ribu",
-      "image": "file:///android_asset/image/bansos-blt600ribu.jpg",
+      "image": "file:///android_asset/image/bansosblt600ribu.jpg",
       "content": "file:///android_asset/content/bansosblt600ribu.html",
       "video": ""
     },
