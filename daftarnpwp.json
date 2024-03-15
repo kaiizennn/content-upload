@@ -101,7 +101,7 @@
      {
       "id": 2,
       "category": "Online, NPWP",
-      "title": "Apa saja persyaratan dalam membuat NPWP",
+      "title": "NPWP: Persyaratan Pembuatan NPWP bagi Wajib Pajak Orang Pribadi",
       "image": "file:///android_asset/image/persyaratan.jpg",
       "content": "file:///android_asset/content/persyaratan-dalam-membuat-npwp.html",
       "video": ""
@@ -109,7 +109,7 @@
     {
       "id": 3,
       "category": "Mobile, NPWP",
-      "title": "Cara Membuat NPWP Online Mudah",
+      "title": "Cara Membuat NPWP Pribadi Secara Online dengan Mudah",
       "image": "file:///android_asset/image/cara-buat-npwp.jpg",
       "content": "file:///android_asset/content/Cara-Membuat-NPWP-Online.html",
       "video": ""
@@ -133,7 +133,7 @@
     {
       "id": 6,
       "category": "Mobile, NPWP",
-      "title": "Cara Cek NPWP secara Online",
+      "title": "Bagaimana cara cek npwp yang sudah terdaftar?",
       "image": "file:///android_asset/image/cek-offline.jpg",
       "content": "file:///android_asset/content/Cara Cek NPWP secara Online.html",
       "video": ""
