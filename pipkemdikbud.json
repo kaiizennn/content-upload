@@ -22,10 +22,10 @@
       "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "alien",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/92145897411",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/10331737121",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/22476961101",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/92573959211",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/921458974111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/103317371211",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/224769611011",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/925739592111",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -110,7 +110,7 @@
     {
       "id": 3,
       "category": "Bantuan, PIP",
-      "title": "Cara Daftar PIP Kemdikbud",
+      "title": "Cara Daftar Program Indonesia Pintar 2024 bagi Siswa SD-SMA, yuk simak disini",
       "image": "file:///android_asset/image/daftar.jpg",
       "content": "file:///android_asset/content/Cara Daftar PIP Kemdikbud.html",
       "video": ""
@@ -118,7 +118,7 @@
      {
       "id": 4,
       "category": "Online, PIP",
-      "title": "Rincian besar bantuan PIP Kemdikbud",
+      "title": "Rincian Pencairan dan Penerima Bantuan PIP Kemdikbud 2024: Siswa SD-SMA Terima Rp1,8 Juta",
       "image": "file:///android_asset/image/rincian.jpg",
       "content": "file:///android_asset/content/Rincian besar bantuan PIP.html",
       "video": ""
@@ -126,7 +126,7 @@
      {
       "id": 5,
       "category": "Bantuan, PIP",
-      "title": "Cara Aktivasi Rekening PIP Kemdikbud 2024",
+      "title": "Cara Aktivasi Rekening PIP Kemdikbud 2024, Apakah Harus Datang ke Bank?",
       "image": "file:///android_asset/image/aktivasi.jpg",
       "content": "file:///android_asset/content/Cara Aktivasi Rekening PIP Kemdikbud 2024.html",
       "video": ""
@@ -134,7 +134,7 @@
      {
       "id": 6,
       "category": "Online, Bantuan",
-      "title": "langkah-langkah penting PIP kemendikbud",
+      "title": "Langkah-Langkah Penting lainnya yang wajib diperhatikan dalam menerima PIP kemendikbud",
       "image": "file:///android_asset/image/langkah.jpg",
       "content": "file:///android_asset/content/langkah-langkah penting PIP kemendikbud.html",
       "video": ""
