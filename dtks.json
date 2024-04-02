@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "redirect_url": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.arsyadev.mountainscenarywallapper4k",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
       "email_feedback_and_report": "youremail@gmail.com",
       "webview_cache": true,
@@ -22,10 +22,10 @@
       "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "alien",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/92145897411",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/10331737121",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/22476961101",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/92573959211",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/921458974111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/103317371211",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/224769611011",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/925739592111",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
