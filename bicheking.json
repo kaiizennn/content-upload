@@ -22,10 +22,10 @@
       "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "alien",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/92145897411",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/10331737121",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/22476961101",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/92573959211",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -110,7 +110,7 @@
     {
       "id": 3,
       "category": "mobile",
-      "title": "Skor Kredit Berdasarkan BI Checking",
+      "title": "Yuk simak, cara Cek Skor Kredit dan Arti Masing-Masing Nilai Skor",
       "image": "file:///android_asset/image/score.jpg",
       "content": "file:///android_asset/content/Skor Kredit Berdasarkan BI Checking.html",
       "video": ""
@@ -126,7 +126,7 @@
     {
       "id": 5,
       "category": "Skor",
-      "title": "Skor BI Checking Jelek, Begini Cara Bersihkan Catatan Kredit",
+      "title": "Skor BI Checking Jelek, Begini Cara Bersihkan Catatan Kredit, simak langkah-langkahnya",
       "image": "file:///android_asset/image/bersih.jpg",
       "content": "file:///android_asset/content/Cara Membersihkan BI Checking.html",
       "video": ""
@@ -134,7 +134,7 @@
     {
       "id": 6,
       "category": "Checking,Skor",
-      "title": "Cara Cek Skor Kredit dan Arti Masing-Masing Nilai Skor",
+      "title": "Cara melakukan Pemutihan BI Checking di SLIK, Biar Mudah Urus Kredit",
       "image": "file:///android_asset/image/pemutihan.jpg",
       "content": "file:///android_asset/content/Cara Pemutihan BI Checking.html",
       "video": ""
