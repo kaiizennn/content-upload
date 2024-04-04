@@ -27,7 +27,7 @@
       "admob_banner_unit_id": "ca-app-pub-5029837080990267/3763309514",
       "admob_interstitial_unit_id": "ca-app-pub-5029837080990267/8312078555",
       "admob_native_unit_id": "ca-app-pub-5029837080990267/7510982835",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835299",
+      "admob_app_open_unit_id": "ca-app-pub-5029837080990267/6182646182",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -60,7 +60,7 @@
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
-      "show_banner_ad_post_details": false,
+      "show_banner_ad_post_details": true,
       "show_banner_ad_category_details": false,
       "show_banner_ad_search": false,
       "show_interstitial_ad_post_list": true,
@@ -68,8 +68,8 @@
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
       "show_native_ad_exit_dialog": true,
-      "show_open_ad_on_app_start": false,
-      "show_open_ad_on_app_resume": false
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
     }
   ],
   "categories": [
