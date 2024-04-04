@@ -27,7 +27,7 @@
       "admob_banner_unit_id": "ca-app-pub-5029837080990267/2313668495",
       "admob_interstitial_unit_id": "ca-app-pub-5029837080990267/4685267699",
       "admob_native_unit_id": "ca-app-pub-5029837080990267/4378145933",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/341983524",
+      "admob_app_open_unit_id": "ca-app-pub-5029837080990267/5147732275",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -68,8 +68,8 @@
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
       "show_native_ad_exit_dialog": true,
-      "show_open_ad_on_app_start": false,
-      "show_open_ad_on_app_resume": false
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true,
     }
   ],
   "categories": [
