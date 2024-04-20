@@ -121,7 +121,7 @@
       "title": "RCTI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
       "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia.",
-      "streaming_url": "https://mbd-rcti.rctiplus.id/rcti-sdi.m3u8",
+      "streaming_url": "https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8",
       "user_agent": ""
     },
     {
