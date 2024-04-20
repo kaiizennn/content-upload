@@ -121,7 +121,7 @@
       "title": "RCTI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
       "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia.",
-      "streaming_url": "https://rcdn.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1709571574-ab3758f7e926740a3c109f454eb8de46-0-5adb0afa9e8866e43e1a30af42c67bfc",
+      "streaming_url": "https://mbd-rcti.rctiplus.id/rcti-sdi.m3u8",
       "user_agent": ""
     },
     {
@@ -130,7 +130,7 @@
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
       "description": "GTV, sebelumnya bernama Global TV adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya.",
-      "streaming_url": "https://gtvcdn-t.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8",
+      "streaming_url": "https://gtvcdn-t.rctiplus.id/gtv-sdi.m3u8",
       "user_agent": ""
     },
     {
