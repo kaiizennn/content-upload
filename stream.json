@@ -166,7 +166,7 @@
       "title": "Moji TV",
       "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/moji.png",
       "description": "Moji (digayakan sebagai mOȷı, sebelumnya bernama O Channel) adalah sebuah jaringan televisi swasta di Indonesia yang dimiliki oleh PT Elang Mahkota Teknologi Tbk.[3] O Channel resmi mengudara pada tanggal 16 Juni 2005 di Jakarta, dan mengganti namanya menjadi nama saat ini pada tanggal 21 Agustus 2022.",
-      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1709572114~acl=/hls-p/ingest_206_*/*~hmac=b342eb4c9968258aaef7754a02da15b0bc864a1f77db985059ca2b14f34cc37b/hls-p/ingest_206_720p/index.m3u8",
+      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/live/206/master.m3u8",
       "user_agent": ""
     },
     {
