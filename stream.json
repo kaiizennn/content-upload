@@ -130,7 +130,7 @@
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
       "description": "GTV, sebelumnya bernama Global TV adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya.",
-      "streaming_url": "https://mbd-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1709573155-3b747e06ca805f7878de61617274d401-nvDuoJbdazJy8hWwzFcm0CeXvgOmlMLymJfbfX5u-9b33a80a5f0aa692cd3e7e3834650f20",
+      "streaming_url": "https://gtvcdn-t.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8",
       "user_agent": ""
     },
     {
@@ -139,7 +139,7 @@
       "title": "Trans 7",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
       "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta.",
-      "streaming_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w314704727_b744100_sleng.m3u8",
+      "streaming_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8",
       "user_agent": ""
     },
     {
