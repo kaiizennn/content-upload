@@ -112,7 +112,7 @@
       "title": "SCTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
       "description": "SCTV adalah sebuah jaringan televisi swasta nasional di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur.",
-      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1709569214~acl=/hls-b/ingest_204_*/*~hmac=1482669b04e87ffb8f8676ec172e5dd2d385216fe8fe4d9f8b154d56148e3bd7/hls-b/ingest_204_720p/index.m3u8",
+      "streaming_url": "<iframe width="560" height="315" src="https://www.youtube.com/embed/AKQmj8YHZ9c?si=PzsLmCxj8i6JST3S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
       "user_agent": ""
     },
     {
